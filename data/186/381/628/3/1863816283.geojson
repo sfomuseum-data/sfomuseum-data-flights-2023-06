@@ -1,0 +1,69 @@
+{
+  "id": 1863816283,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-06-06",
+    "date:inception_upper": "2023-06-06",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-06-06",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AA",
+    "flysfo:date": "2023-06-06",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AA159",
+    "flysfo:gate": "",
+    "flysfo:journey": "MIA-SFO",
+    "flysfo:scheduled_timestamp": 1686035760,
+    "flysfo:timestamp": 1686035760,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,25.790470,-80.296006,37.617990",
+    "geom:latitude": 31.70423,
+    "geom:longitude": -101.3334745,
+    "iata:airline": "AA",
+    "icao:airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102531023,
+    "sfomuseum:flight_id": "20230606-A-AAL-159",
+    "sfomuseum:flight_number": [
+      "AAL159",
+      "AA159"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1686777768,
+    "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1863816283
+      }
+    ],
+    "wof:id": 1863816283,
+    "wof:involves": [
+      102527513,
+      102531023,
+      1159283849,
+      -1
+    ],
+    "wof:lastmodified": 1686777768,
+    "wof:name": "AA159 (MIA-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-06",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    25.79047,
+    -80.296006,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-80.296006,25.79047],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
