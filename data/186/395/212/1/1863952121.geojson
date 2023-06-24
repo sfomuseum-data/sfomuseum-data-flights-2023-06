@@ -1,0 +1,69 @@
+{
+  "id": 1863952121,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2023-06-23",
+    "date:inception_upper": "2023-06-23",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-06-23",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AA",
+    "flysfo:date": "2023-06-23",
+    "flysfo:estimated_timestamp": 1687558080,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AA2930",
+    "flysfo:gate": "",
+    "flysfo:journey": "TUS-SFO",
+    "flysfo:scheduled_timestamp": 1687546860,
+    "flysfo:timestamp": 1687558080,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,32.119362,-110.946818,37.617990",
+    "geom:latitude": 34.868676,
+    "geom:longitude": -116.6588805,
+    "iata:airline": "AA",
+    "icao:airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102527853,
+    "sfomuseum:flight_id": "20230623-A-AAL-2930",
+    "sfomuseum:flight_number": [
+      "AAL2930",
+      "AA2930"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1687622514,
+    "wof:geomhash": "82918c5e99f5bb53bff81082f1f1666f",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1863952121
+      }
+    ],
+    "wof:id": 1863952121,
+    "wof:involves": [
+      102527513,
+      102527853,
+      1159283849,
+      -1
+    ],
+    "wof:lastmodified": 1687622514,
+    "wof:name": "AA2930 (TUS-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2023-06",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    32.119362,
+    -110.946818,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-110.946818,32.119362],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
