@@ -2,10 +2,12 @@
   "id": 1863963169,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-06-24",
-    "date:inception_upper": "2023-06-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2023-06-24",
+    "date:cessation_lower": "2023-06-24",
+    "date:cessation_upper": "2023-06-24",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2023-06-24T04:24:42-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2023-06-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620929,
     "lbl:longitude": -122.390272,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N779UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1863963169,
     "wof:involves": [
+      1763588325,
+      1159289985,
       102527513,
       102533795,
-      1159285413,
-      1763588325
+      1159285413
     ],
-    "wof:lastmodified": 1687709800,
+    "wof:lastmodified": 1687710768,
     "wof:name": "UA3886 (LAX-SFO)",
     "wof:parent_id": 1763588325,
     "wof:placetype": "custom",
