@@ -45,6 +45,7 @@
     "wof:geomhash": "68b06bbd791163721a20ab955d143e55",
     "wof:hierarchy": [
       {
+        "custom_id": 1863984949,
         "flight_id": 1863984949
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159286015
     ],
-    "wof:lastmodified": 1687968354,
+    "wof:lastmodified": 1717044674,
     "wof:name": "NZ9172 (EUG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

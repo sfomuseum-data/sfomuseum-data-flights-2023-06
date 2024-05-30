@@ -45,6 +45,7 @@
     "wof:geomhash": "c01fce3544b8d9a4d0cb6d6783ef8a82",
     "wof:hierarchy": [
       {
+        "custom_id": 1863885533,
         "flight_id": 1863885533
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283717
     ],
-    "wof:lastmodified": 1687104672,
+    "wof:lastmodified": 1717044668,
     "wof:name": "FJ5867 (PAE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

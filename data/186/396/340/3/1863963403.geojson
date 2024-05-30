@@ -48,6 +48,7 @@
     "wof:geomhash": "5fe9a4073f558f5d433cae4f846ab71e",
     "wof:hierarchy": [
       {
+        "custom_id": 1863963403,
         "flight_id": 1863963403
       }
     ],
@@ -58,11 +59,13 @@
       102533657,
       1159285413
     ],
-    "wof:lastmodified": 1687710768,
+    "wof:lastmodified": 1717044671,
     "wof:name": "UA8129 (MCO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

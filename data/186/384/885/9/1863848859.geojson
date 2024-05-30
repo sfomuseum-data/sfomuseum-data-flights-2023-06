@@ -48,6 +48,7 @@
     "wof:geomhash": "9390a915336d8faff0e074cd5e7b3238",
     "wof:hierarchy": [
       {
+        "custom_id": 1863848859,
         "flight_id": 1863848859
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159284261
     ],
-    "wof:lastmodified": 1686790263,
+    "wof:lastmodified": 1717044668,
     "wof:name": "DL8842 (SFO-PIE)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

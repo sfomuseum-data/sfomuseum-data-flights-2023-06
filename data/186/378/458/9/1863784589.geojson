@@ -40,6 +40,7 @@
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
+        "custom_id": 1863784589,
         "flight_id": 1863784589
       }
     ],
@@ -50,11 +51,13 @@
       1159284511,
       -1
     ],
-    "wof:lastmodified": 1686766754,
+    "wof:lastmodified": 1717044663,
     "wof:name": "IB729 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

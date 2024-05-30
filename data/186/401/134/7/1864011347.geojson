@@ -40,6 +40,7 @@
     "wof:geomhash": "f3115fe3d28c66ab4b94072923e0b1bb",
     "wof:hierarchy": [
       {
+        "custom_id": 1864011347,
         "flight_id": 1864011347
       }
     ],
@@ -50,11 +51,13 @@
       1159285043,
       -1
     ],
-    "wof:lastmodified": 1688227935,
+    "wof:lastmodified": 1717044674,
     "wof:name": "QF73 (SYD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -45,6 +45,7 @@
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
     "wof:hierarchy": [
       {
+        "custom_id": 1863987361,
         "flight_id": 1863987361
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283605
     ],
-    "wof:lastmodified": 1687968916,
+    "wof:lastmodified": 1717044676,
     "wof:name": "UA253 (IAH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

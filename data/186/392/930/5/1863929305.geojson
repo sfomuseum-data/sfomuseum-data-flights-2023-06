@@ -48,6 +48,7 @@
     "wof:geomhash": "d5ad4a83d3d679d1b3fe86e419b08d84",
     "wof:hierarchy": [
       {
+        "custom_id": 1863929305,
         "flight_id": 1863929305
       }
     ],
@@ -58,11 +59,13 @@
       1159283813,
       1377564285
     ],
-    "wof:lastmodified": 1687537980,
+    "wof:lastmodified": 1717044674,
     "wof:name": "AS9806 (KOA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

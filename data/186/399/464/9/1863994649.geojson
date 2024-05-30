@@ -45,6 +45,7 @@
     "wof:geomhash": "a4e0879e5fc6968e3e72ecbd42744790",
     "wof:hierarchy": [
       {
+        "custom_id": 1863994649,
         "flight_id": 1863994649
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159286153
     ],
-    "wof:lastmodified": 1688055179,
+    "wof:lastmodified": 1717044674,
     "wof:name": "QR2080 (GEG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

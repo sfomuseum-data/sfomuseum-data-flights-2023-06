@@ -40,6 +40,7 @@
     "wof:geomhash": "b96563c9986e04a3607ac552f48e111b",
     "wof:hierarchy": [
       {
+        "custom_id": 1864008863,
         "flight_id": 1864008863
       }
     ],
@@ -50,11 +51,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1688227327,
+    "wof:lastmodified": 1717044676,
     "wof:name": "AA735 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

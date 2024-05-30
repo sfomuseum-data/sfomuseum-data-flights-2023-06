@@ -48,6 +48,7 @@
     "wof:geomhash": "24c5d8bcd340273688237ae435bbe348",
     "wof:hierarchy": [
       {
+        "custom_id": 1864004203,
         "flight_id": 1864004203
       }
     ],
@@ -58,11 +59,13 @@
       102531979,
       102527513
     ],
-    "wof:lastmodified": 1688142629,
+    "wof:lastmodified": 1717044676,
     "wof:name": "OZ283 (SFO-ANC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

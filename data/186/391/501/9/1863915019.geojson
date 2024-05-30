@@ -45,6 +45,7 @@
     "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
     "wof:hierarchy": [
       {
+        "custom_id": 1863915019,
         "flight_id": 1863915019
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1687364377,
+    "wof:lastmodified": 1717044671,
     "wof:name": "AC4423 (SFO-ONT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

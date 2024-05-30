@@ -40,6 +40,7 @@
     "wof:geomhash": "8aed97a089883cbe179a22c2076f7bb1",
     "wof:hierarchy": [
       {
+        "custom_id": 1863806637,
         "flight_id": 1863806637
       }
     ],
@@ -50,11 +51,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1686773004,
+    "wof:lastmodified": 1717044665,
     "wof:name": "AA2931 (SFO-COS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

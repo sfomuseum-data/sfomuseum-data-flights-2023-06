@@ -48,6 +48,7 @@
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "custom_id": 1864005763,
         "flight_id": 1864005763
       }
     ],
@@ -58,11 +59,13 @@
       1159289411,
       102533795
     ],
-    "wof:lastmodified": 1688142631,
+    "wof:lastmodified": 1717044676,
     "wof:name": "DL9965 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -45,6 +45,7 @@
     "wof:geomhash": "ac29143dee46faf8dc4d82fa5cfc7601",
     "wof:hierarchy": [
       {
+        "custom_id": 1863871129,
         "flight_id": 1863871129
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1686932704,
+    "wof:lastmodified": 1717044666,
     "wof:name": "LH9144 (SFO-EUG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

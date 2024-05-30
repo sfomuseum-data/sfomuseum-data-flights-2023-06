@@ -48,6 +48,7 @@
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
     "wof:hierarchy": [
       {
+        "custom_id": 1863929739,
         "flight_id": 1863929739
       }
     ],
@@ -58,11 +59,13 @@
       102528817,
       1159284261
     ],
-    "wof:lastmodified": 1687537982,
+    "wof:lastmodified": 1717044675,
     "wof:name": "DL8876 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

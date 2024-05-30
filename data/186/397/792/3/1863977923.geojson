@@ -40,6 +40,7 @@
     "wof:geomhash": "bfe9b4dfbd612ca8de6bd9460273f90d",
     "wof:hierarchy": [
       {
+        "custom_id": 1863977923,
         "flight_id": 1863977923
       }
     ],
@@ -50,11 +51,13 @@
       1159284613,
       -1
     ],
-    "wof:lastmodified": 1687882315,
+    "wof:lastmodified": 1717044674,
     "wof:name": "KL109 (AMS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

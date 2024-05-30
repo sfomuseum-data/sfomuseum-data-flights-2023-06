@@ -48,6 +48,7 @@
     "wof:geomhash": "d9a5d9d800d6bc92413ff3768040f8da",
     "wof:hierarchy": [
       {
+        "custom_id": 1863822023,
         "flight_id": 1863822023
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159286015
     ],
-    "wof:lastmodified": 1686779385,
+    "wof:lastmodified": 1717044662,
     "wof:name": "LH9855 (SFO-MUC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -48,6 +48,7 @@
     "wof:geomhash": "f516e888b2147d8dfed68b8e49da1dda",
     "wof:hierarchy": [
       {
+        "custom_id": 1863855635,
         "flight_id": 1863855635
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       1159284261
     ],
-    "wof:lastmodified": 1686793080,
+    "wof:lastmodified": 1717044663,
     "wof:name": "DL8886 (SFO-CPS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

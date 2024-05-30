@@ -53,6 +53,7 @@
     "wof:geomhash": "f5805f1be1c56ce2a2965880e252c65f",
     "wof:hierarchy": [
       {
+        "custom_id": 1863826177,
         "flight_id": 1863826177
       }
     ],
@@ -64,11 +65,13 @@
       1159285413,
       1159283597
     ],
-    "wof:lastmodified": 1686781625,
+    "wof:lastmodified": 1717044666,
     "wof:name": "UA442 (SMF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

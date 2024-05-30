@@ -40,6 +40,7 @@
     "wof:geomhash": "300aa0b6d6fd1fa7d09bf740f0e0c265",
     "wof:hierarchy": [
       {
+        "custom_id": 1863979013,
         "flight_id": 1863979013
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1687882571,
+    "wof:lastmodified": 1717044675,
     "wof:name": "UA3914 (HKG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -48,6 +48,7 @@
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
     "wof:hierarchy": [
       {
+        "custom_id": 1863812285,
         "flight_id": 1863812285
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       102526751
     ],
-    "wof:lastmodified": 1686776434,
+    "wof:lastmodified": 1717044663,
     "wof:name": "WN2233 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

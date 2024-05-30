@@ -48,6 +48,7 @@
     "wof:geomhash": "d45c6baaf0d56697f52acbb8a9e14867",
     "wof:hierarchy": [
       {
+        "custom_id": 1863830859,
         "flight_id": 1863830859
       }
     ],
@@ -58,11 +59,13 @@
       102527373,
       1159283813
     ],
-    "wof:lastmodified": 1686783431,
+    "wof:lastmodified": 1717044661,
     "wof:name": "AS9802 (SAT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
     "wof:hierarchy": [
       {
+        "custom_id": 1863806815,
         "flight_id": 1863806815
       }
     ],
@@ -50,11 +51,13 @@
       1159283597,
       -1
     ],
-    "wof:lastmodified": 1686773049,
+    "wof:lastmodified": 1717044666,
     "wof:name": "AC2129 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

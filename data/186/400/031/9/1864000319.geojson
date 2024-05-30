@@ -45,6 +45,7 @@
     "wof:geomhash": "a4023a41644574291fc7580f5443d9f4",
     "wof:hierarchy": [
       {
+        "custom_id": 1864000319,
         "flight_id": 1864000319
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1688141039,
+    "wof:lastmodified": 1717044672,
     "wof:name": "AC4685 (OMA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

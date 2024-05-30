@@ -48,6 +48,7 @@
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
     "wof:hierarchy": [
       {
+        "custom_id": 1863969393,
         "flight_id": 1863969393
       }
     ],
@@ -58,11 +59,13 @@
       102530049,
       1159284261
     ],
-    "wof:lastmodified": 1687797174,
+    "wof:lastmodified": 1717044676,
     "wof:name": "DL8883 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []

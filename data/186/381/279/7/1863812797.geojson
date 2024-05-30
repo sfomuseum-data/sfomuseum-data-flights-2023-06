@@ -40,6 +40,7 @@
     "wof:geomhash": "ec6660f1f317e7fe021c7c410168f722",
     "wof:hierarchy": [
       {
+        "custom_id": 1863812797,
         "flight_id": 1863812797
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1686775608,
+    "wof:lastmodified": 1717044663,
     "wof:name": "UA2810 (FRA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2023-06",
     "wof:superseded_by": [],
     "wof:supersedes": []
